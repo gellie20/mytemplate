@@ -1,0 +1,127 @@
+/*=======login style ===*/
+.style{
+	background-color: #00BCD4;
+	}
+	#login{
+	margin-left: 1000px;
+	}
+/*=======sign up style ===*/
+.style{
+	background-color: #00BCD4;
+	}
+	#signup{
+	margin-left: 1000px;
+	}
+/*========background-image=========*/
+.image{
+	width: 1400px;
+	height: 600px;
+	background-image: url(wallpap.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+/*========picture here=========*/
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+}	
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 0px;
+    text-align: center;
+}
+/*========navbar here=========*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #00BCD4;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #000;
+	text-decoration: none;
+}
+/*========Home here=========*/
+div.container {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+}	
+
+div.container:hover {
+    border: 1px solid #777;
+}
+
+div.container container {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 0px;
+    text-align: center;
+}
+
+/*========About here=========*/
+#section {
+	font-size:30px;
+    width:1300px;
+    float:left;
+	align:center;	
+}
+#section h1{
+	font-size:100px;
+    width:1300px;
+    float:left;
+}
+div.desc {
+    padding: 0px;
+    text-align: center;
+}
+/*==========Contact here=======*/
+.fbpage{
+font-size:30px;
+
+}
+/*========Home here=========*/
+#section {
+	font-size:30px;
+    width:1300px;
+    float:left;
+	text-align:center;
+	
+}
+#section h2{
+	font-size:90px;
+    width:1300px;
+    float:left;
+	
